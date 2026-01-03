@@ -31,7 +31,13 @@ div{
     padding: 1.5rem;
 }
 .spanBeschrijving{
-
+color: #00c0ff;
+}
+.spanUitdagingen{
+    color: #ff3030;
+}
+.spanBijgeleerd{
+    color: #2fff2f;
 }
 .hr{
     border: 0.2rem solid #2E2E2E;
